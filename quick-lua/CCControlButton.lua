@@ -1,0 +1,37 @@
+module "CCControlButton"
+
+function doesAdjustBackgroundImage() end
+function setAdjustBackgroundImage() end
+function getTitleLabel() end
+function setTitleLabel() end
+function getBackgroundSprite() end
+function setBackgroundSprite() end
+function getPreferredSize() end
+function setPreferredSize() end
+function getZoomOnTouchDown() end
+function setZoomOnTouchDown() end
+function getLabelAnchorPoint() end
+function setLabelAnchorPoint() end
+function isPushed() end
+function getVerticalMargin() end
+function getHorizontalOrigin() end
+function setMargins() end
+function create() end
+function create() end
+function create() end
+function create() end
+function getTitleForState() end
+function setTitleForState() end
+function getTitleColorForState() end
+function setTitleColorForState() end
+function getTitleLabelForState() end
+function setTitleLabelForState() end
+function setTitleTTFForState() end
+function getTitleTTFForState() end
+function setTitleTTFSizeForState() end
+function getTitleTTFSizeForState() end
+function setTitleBMFontForState() end
+function getTitleBMFontForState() end
+function getBackgroundSpriteForState() end
+function setBackgroundSpriteForState() end
+function setBackgroundSpriteFrameForState() end

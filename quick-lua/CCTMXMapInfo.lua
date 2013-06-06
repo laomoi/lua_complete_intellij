@@ -1,0 +1,37 @@
+module "CCTMXMapInfo"
+
+function setOrientation() end
+function getOrientation() end
+function setMapSize() end
+function getMapSize() end
+function setTileSize() end
+function getTileSize() end
+function setLayers() end
+function getLayers() end
+function setTilesets() end
+function getTilesets() end
+function setObjectGroups() end
+function getObjectGroups() end
+function setParentElement() end
+function getParentElement() end
+function setParentGID() end
+function getParentGID() end
+function setLayerAttribs() end
+function getLayerAttribs() end
+function setStoringCharacters() end
+function getStoringCharacters() end
+function setProperties() end
+function getProperties() end
+function setTileProperties() end
+function getTileProperties() end
+function setCurrentString() end
+function getCurrentString() end
+function setTMXFileName() end
+function getTMXFileName() end
+function startElement() end
+function endElement() end
+function textHandler() end
+function parseXMLFile() end
+function parseXMLString() end
+function formatWithTMXFile() end
+function formatWithXML() end

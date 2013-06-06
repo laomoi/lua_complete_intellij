@@ -1,0 +1,34 @@
+module "CCDirector"
+
+function getRunningScene() end
+function getAnimationInterval() end
+function isDisplayStats() end
+function setDisplayStats() end
+function isPaused() end
+function getTotalFrames() end
+function getOpenGLView() end
+function getWinSize() end
+function getWinSizeInPixels() end
+function convertToGL() end
+function convertToUI() end
+function pause() end
+function resume() end
+function purgeCachedData() end
+function runWithScene() end
+function pushScene() end
+function popScene() end
+function replaceScene() end
+function getContentScaleFactor() end
+function setContentScaleFactor() end
+function getScheduler() end
+function getActionManager() end
+function getTouchDispatcher() end
+function setDepthTest() end
+function setProjection() end
+function getProjection() end
+function getNotificationNode() end
+function setNotificationNode() end
+function getZEye() end
+function getVisibleSize() end
+function getVisibleOrigin() end
+function sharedDirector() end
